@@ -34,10 +34,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 1.Go to quartus software.
+
 2.Set new environment.
+
 3.Type the code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+
 4.Run the program.
+
 5.Give inputs in the waveform table.
+
 6.Run the program.
 
 **PROGRAM**
